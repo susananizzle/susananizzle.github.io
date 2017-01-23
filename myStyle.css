@@ -1,0 +1,34 @@
+<link href="https://fonts.googleapis.com/css?family=Shadows+Into+Light+Two" rel="stylesheet">
+body {
+	background:;
+}
+
+header{
+	text-align: center;
+	color: white;
+	margin: 0px, 0px, 0px, 0px;
+	border: 7px solid white;
+	border-radius:20;
+	font-family:
+	background: url("");	
+}
+h2 {
+	color: rgb(85, 140,186);
+	font-family:"Shadows Into Light Two', cursive;"
+}
+
+p{
+	color: rgb(140, 160, 193);
+	
+}
+ul{
+	color:  rgb(140, 160, 193);
+}
+ol{
+	
+	color:  rgb(140, 160, 193);
+}
+a{
+	color: rgb(198, 170, 201)
+}
+}
