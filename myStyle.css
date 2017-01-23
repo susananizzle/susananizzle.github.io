@@ -1,6 +1,5 @@
-<link href="https://fonts.googleapis.com/css?family=Shadows+Into+Light+Two" rel="stylesheet">
 body {
-	background:;
+	background: rbg(240,217,218) ;
 }
 
 header{
@@ -15,14 +14,17 @@ header{
 h2 {
 	color: rgb(85, 140,186);
 	font-family:"Shadows Into Light Two', cursive;"
+		text-align: center;
 }
 
 p{
 	color: rgb(140, 160, 193);
+		text-align: center;
 	
 }
 ul{
 	color:  rgb(140, 160, 193);
+	text-align; center
 }
 ol{
 	
