@@ -10,6 +10,7 @@ header{
 	border-radius:20;
 	font-family:
 	background:url("images/kermit.jpg");	
+	background-size: cover;
 }
 h2 {
 	color: rgb(85, 140,186);
