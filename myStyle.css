@@ -5,6 +5,9 @@ header {
       color: black;
        <img src="" alt="picture of susana"    
 }
+body{
+background: rgb((53,99,111);
+}
       
     a {
       color: white;
@@ -13,6 +16,7 @@ header {
       font-size: 70px;
       Font-family:'Princess Sofia', cursive;
       color: white;
+          
     }
     img {
       margin: 40px 0px 0px 0px;
