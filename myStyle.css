@@ -3,14 +3,11 @@ body {
 }
 
 header{
-	text-align: center;
-	color: white;
-	margin: 0px, 0px, 0px, 0px;
-	border: 7px solid white;
-	border-radius:20;
-	font-family:
-	background:url("images/kermit.jpg");	
-	background-size: cover;
+	 text-align: center;
+      background: url('images/kermit.jpg');
+      background-size: cover;
+      color: black;
+	
 }
 h2 {
 	color: rgb(85, 140,186);
