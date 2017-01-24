@@ -3,7 +3,7 @@ header {
       background: url('space.jpg');
       background-size: cover;
       color: black;
-      >img src="Susana.jpg" alt="Susana">    
+      <img src="images/Susana.jpg" alt="Susana">    
 }
 body{
 background: rgb(53,99,111);
