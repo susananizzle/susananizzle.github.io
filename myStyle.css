@@ -41,9 +41,13 @@ ol {
       background: rgba(0,0,0,0.5);
           color: white;
     }
-    li {
+.hlinks {
       display: inline;
+      padding: 0px 10px 0px 10px;}
+    li {
+  
       padding: 0px 10px 0px 10px;
+         
     }
     article {
       max-width: 500px;
