@@ -8,6 +8,10 @@ header {
 body{
 background: rgb(53,99,111);
 }
+
+p{
+      color: white;
+}
       
     a {
       color: white;
@@ -24,9 +28,13 @@ background: rgb(53,99,111);
       border-radius: 20px;
       
     }
+ol {
+      color:white;
+}
     ul {
       padding: 10px;
       background: rgba(0,0,0,0.5);
+          color: white;
     }
     li {
       display: inline;
